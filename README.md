@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **GONOSEN Company**
 
-- 🌱 I’m currently learning **Flutter, VueJS**
+- 🌱 I’m currently learning **Flutter, VueJS, Swift**
 
 - ⚡ Fun fact **I'm sure that I'm interested in badminton and chess.**
 
